@@ -126,7 +126,7 @@ The model involves loss of immunity following natural infection. We define:
 
 - *R0* - Reproduction number
 - 1/$\gamma$ - Average duration of infection
-- $\omega$ - Rate of loss of infection
+- $\omega$ - Rate of loss of immunity
 - $\nu$ - Birth rate
 - $\mu$ - Death rate
 - *a* - Averge rate of aging
